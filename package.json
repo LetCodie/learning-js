@@ -1,0 +1,14 @@
+{
+  "name": "learning-js",
+  "version": "1.0.0",
+  "description": "Happy learning!",
+  "main": "index.js",
+  "author": "radin reth",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^2.0.1"
+  }
+}
